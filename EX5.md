@@ -1,7 +1,7 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
 
 ### AIM: 
-    To create a Trigger using PL/SQL.
+To create a Trigger using PL/SQL.
 
 ### Algorithm:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
@@ -53,4 +53,4 @@ select *from slog;
 
 
 ### Result:
-    Thus a trigger is created using PL/SQL.
+Thus a trigger is created using PL/SQL.
