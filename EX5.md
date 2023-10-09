@@ -47,6 +47,10 @@ update empe set salary =65000 where empid=2;
 select *from slog;
 ```
 ### Output:
+![2](https://github.com/Mothesh-M127/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/94170892/f72523c2-03fb-41ee-a11f-67ff5d4acf71)
+
+![3](https://github.com/Mothesh-M127/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/94170892/31a5bc74-ee8b-4c20-8020-8cc0f3092a8c)
+
 
 ### Result:
     Thus a trigger is created using PL/SQL.
